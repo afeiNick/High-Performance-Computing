@@ -1,2 +1,2 @@
-# homework2
+# Assignment2
 HPC HW2
